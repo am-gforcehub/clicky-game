@@ -1,0 +1,27 @@
+.navbar {
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  z-index: 9999;
+  color: #222;
+  font-size: 20px;
+  /* background-color: steelblue; */
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+header {
+  font-size: 50px;
+  font-family: "sprout";
+}
+.scores {
+  font-size: 30px;
+  font-family: "sprout";
+}
+
+p {
+  font-family: "sprout";
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html,
+body,
+#root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+/* body {
+  background: url("../src/images/10-city-bg.png");
+  background-image: no-repeat;
+  background-size: 920px;
+} */
+
+html,
+body {
+  background: url("../src/images/10-city-bg.png") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+@media (max-width: 480px) {
+  html {
+    background-image: url(../src/images/10-city-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+@media (min-width: 481px) {
+  html {
+    background-image: url(../src/images/10-city-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}

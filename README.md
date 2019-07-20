@@ -1,6 +1,6 @@
-#Pets Clicky Game
+##Pets Clicky Game
 
-## ![image info]<p align='center'>(./src/images/secretlifeofpets.jpg)</p>
+## ![image info](./src/images/secretlifeofpets.jpg)
 
 ---
 
@@ -17,7 +17,7 @@ Direct link to Pets Clicky Game [here](https://pacific-gorge-34735.herokuapp.com
 - **For:** Southern Methodist University Coding Bootcamp
 - **Developer:** Alicia Garcia
 - **Deployment Date:** 07/20/2019
-- **Technologies Used:** React.js (JavaScript environment), JavaScript, Bootstrap, CSS, Heroku (cloud platform)
+- **Technologies Used:** React.js (JavaScript environment), ES6, Bootstrap, CSS, Heroku (cloud platform)
 
 ---
 

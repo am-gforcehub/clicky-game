@@ -1,4 +1,4 @@
-![image info](./src/images/secretlifeofpets.jpg)
+##Pets Clicky Game![image info](./src/images/secretlifeofpets.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ Get link to Clicky Game requirements [here](https://docs.google.com/document/d/1
 
 Here is screen-shot of Pets Clicky Game home page:
 
-## ![View of Home Page](../images/PetsClickyGameImage.png)
+## ![View of Home Page](./src/images/PetsClickyGameImage.png)
 
 - **Demo**
   See a full demo on the functionality of the app [here!]()

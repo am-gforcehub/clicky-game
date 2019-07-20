@@ -1,4 +1,4 @@
-##Pets Clicky Game
+# <center> <h1>Pets Clicky Game</h1> </center>
 
 ## ![image info](./src/images/secretlifeofpets.jpg)
 

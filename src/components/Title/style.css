@@ -1,8 +1,9 @@
-.title {
+a {
   width: 100%;
   text-align: center;
   font-size: 2rem;
   color: #222;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   font-family: "sprout";
+  text-decoration: none;
 }

@@ -1,3 +1,43 @@
+![image info](./public/images/pineapple-logo3.png)
+
+---
+
+Test your memory with your favorite friends from The Secret Life of Pets.
+
+Click on each character once to win the game. But don't click on a character twice, or it's game over for you!
+
+Direct link to SLOP Clicky Game [here](https://pacific-gorge-34735.herokuapp.com/)
+
+---
+
+- **For:** Southern Methodist University Coding Bootcamp
+- **Developer:** Alicia Garcia
+- **Deployment Date:** 07/20/2019
+- **Technologies Used:** React.js (JavaScript environment), JavaScript, Bootstrap, CSS, Heroku (cloud platform)
+
+---
+
+### Description & Requirements
+
+Get link to Clicky Game requirements [here](https://drive.google.com/file/d/15i7nSFby2ObN3Awxiv1KX7UWiWNq__n6/view?usp=sharing)
+
+The following npm packages were installed:
+
+1. **Dotenv:** Dotenv is a simple way to allow you to create secret keys that your application needs to function and keep them from going public.
+
+   _Command Line: 'npm install dotenv'_
+
+### Functionality
+
+It’s simple: At the top click on 'MustSell' to sell your stuff or scroll through all the available items and click on the item to buy!
+
+Here is screen-shot of MustBuy's home page:
+
+## ![View of Home Page](./public/images/home-page.png)
+
+- **Demo**
+  See a full demo on the functionality of the app [here!]()
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

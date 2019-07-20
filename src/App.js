@@ -53,15 +53,18 @@ class App extends Component {
     return (
       <Wrapper>
         <Navbar score={this.state.score} topScore={this.state.topScore}>
-          <header>Clicky Game</header>
-          <br />
+          <header>Pets Clicky Game</header>
+
           <p>
             How to Play
             <br />
             Click on the pets below but try not to click the same pet twice!
           </p>
+
+          <Title>
+            <a href="/">CLICK TO RESET GAME</a>
+          </Title>
         </Navbar>
-        <Title>CLICK TO RESET GAME</Title>
 
         {this.state.friends.map(friend => (
           <FriendCard

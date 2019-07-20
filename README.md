@@ -1,4 +1,6 @@
-##Pets Clicky Game![image info](./src/images/secretlifeofpets.jpg)
+#Pets Clicky Game
+
+## ![image info]<p align='center'>(./src/images/secretlifeofpets.jpg)</p>
 
 ---
 

@@ -27,7 +27,7 @@ It’s simple: Click on any image to start and continue to click on any image yo
 
 Here is screen-shot of Pets Clicky Game home page:
 
-## ![View of Home Page](./public/images/home-page.png)
+## ![View of Home Page](./images/PetsClickyGameImage.png)
 
 - **Demo**
   See a full demo on the functionality of the app [here!]()
